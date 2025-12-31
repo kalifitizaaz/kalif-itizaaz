@@ -1,0 +1,7 @@
+{
+  "name": "MIRROR - Personal Reflection & Growth",
+  "description": "A gentle, AI-powered personal reflection app designed to help you understand the relationship between your intentions and your reality over time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
